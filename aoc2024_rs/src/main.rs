@@ -1,6 +1,6 @@
-mod aoc2024_3a;
+mod aoc2024_3b;
 
 fn main() {
     println!("Hello, world!");
-    aoc2024_3a::main();
+    aoc2024_3b::main();
 }
